@@ -1,2 +1,0 @@
- <div class="header-logo"><span class=first-letter>u</span>venta
-    </div>
